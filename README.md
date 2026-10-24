@@ -21,8 +21,8 @@
 
 <p align="center">
  <details>
-    <summary><sub><a </sub>${\textsf{\color{#47265b}awards:}}$ </summary>   
-    <p><a </sub>${\textsf{\color{#d72ba6}down below are award accounts that I'm listed in!}}$
+    <summary><sub><a </sub>${\textsf{\color{#d72ba6}awards:}}$ </summary>   
+    <p><a </sub>${\textsf{\color{#47265b}down below are award accounts that I'm listed in!}}$
     <p><sub><a </p><a href="https://github.com/Ponytowns-rewards">@ponytowns-awards</a>
     <p><sub><a </p><a href="https://github.com/pt-heavyfictkin">@pt-heavyfictkin</a>
     </details>
