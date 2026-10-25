@@ -22,9 +22,7 @@
 <p align="center">
  <details>
     <summary><sub><a </sub>${\textsf{\color{#d72ba6}awards:}}$ </summary>   
-    <p><a </sub>${\textsf{\color{#47265b}down below are award accounts that I'm listed in!}}$
-    <p><sub><a </p><a href="https://github.com/Ponytowns-rewards">@ponytowns-awards</a>
-    <p><sub><a </p><a href="https://github.com/pt-heavyfictkin">@pt-heavyfictkin</a>
+    <p><sub><a </p><a href="https://github.com/Ponytowns-rewards">@ponytowns-awards</a> <a </p><a href="https://github.com/music-town">@music-town</a> <a </p><a href="https://github.com/pt-heavyfictkin">@pt-heavyfictkin</a> <a </p><a href="https://github.com/pt-ship-nominations">@pt-ship-nominations</a>
     </details>
 
 <a href="https://biteofvox.straw.page/">strawpage</a> <a href="https://guns.lol/biteofme">gunslol</a>
