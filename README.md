@@ -16,7 +16,6 @@
     <p><sub><a </sub>${\textsf{\color{#d72ba6}I'm a minor. -13 dni, 19+ iwc}}$
     <p><sub><a </sub>${\textsf{\color{#d72ba6}Vox and Verosika selfshipper}}$
     <p><sub><a </sub>${\textsf{\color{#d72ba6}please be patient with me}}$
-    <p><sub><a </sub>${\textsf{\color{#d72ba6}taken by < r 3 }}$
     </details>
 
 <p align="center">
