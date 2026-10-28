@@ -24,3 +24,11 @@
     <summary><sub><a </sub>${\textsf{\color{#d72ba6}awards}}$ </summary>   
     <p><sub><a </p><a href="https://github.com/Ponytowns-rewards">@ponytowns-awards</a> <a </p><a href="https://github.com/music-town">@music-town</a> <a </p><a href="https://github.com/pt-heavyfictkin">@pt-heavyfictkin</a> <a </p><a href="https://github.com/pt-ship-nominations">@pt-ship-nominations</a> <a </p><a href="https://github.com/THE-TEMPIST">@THE-TEMPTIST</a>
     </details>
+
+    
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31644766y7alkzyhtoou2z2upqpi&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=47265b&bar_color_cover=false">
+  </a>
+</p>
