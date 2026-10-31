@@ -22,7 +22,7 @@
 <p align="center">
  <details>
     <summary><sub><a </sub>${\textsf{\color{#d72ba6}awards}}$ </summary>   
-    <p><sub><a </p><a href="https://github.com/Ponytowns-rewards">@ponytowns-awards</a> <a </p><a href="https://github.com/music-town">@music-town</a> <a </p><a href="https://github.com/pt-heavyfictkin">@pt-heavyfictkin</a> <a </p><a href="https://github.com/pt-ship-nominations">@pt-ship-nominations</a> <a </p><a href="https://github.com/THE-TEMPIST">@THE-TEMPTIST</a> <a </p><a href="https://github.com/Knox-Event">@Knox-Event</a>
+    <p><sub><a </p><a href="https://github.com/Ponytowns-rewards">@ponytowns-awards</a> <a </p><a href="https://github.com/music-town">@music-town</a> <a </p><a href="https://github.com/pt-heavyfictkin">@pt-heavyfictkin</a> <a </p><a href="https://github.com/pt-ship-nominations">@pt-ship-nominations</a> <a </p><a href="https://github.com/THE-TEMPIST">@THE-TEMPTIST</a> <a </p><a href="https://github.com/Knox-Event">@Knox-Event</a> <a </p><a href="https://github.com/piddlesjet">@piddlesjet</a>
     </details>
 
 <p align="center">
