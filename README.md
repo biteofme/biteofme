@@ -4,7 +4,7 @@
 <p align="center">
   <sub>$\color{#d72ba6}{laraㅤㅤmave}$</sub>
 <p align="center">
-  <sub>$\color{#47265b}{ㅤthatㅤvampireㅤgirlㅤ◡◡ .}$</sub>
+  <sub>$\color{#47265b}{ㅤthatㅤvampireㅤgloss ㅤgirlㅤ◡◡ .}$</sub>
 
   <p align="center">
   <img width="300" height="300" src="https://imglink.cc/cdn/XjcMtPjBZ2.webp">
