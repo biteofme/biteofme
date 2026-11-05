@@ -1,27 +1,27 @@
+  <p align="center">
+  <img width="150" height="150" src="https://imglink.cc/cdn/2S3QquC86T.webp">
+
 <div align="center">
 <img src="https://api.visitorbadge.io/api/visitors?path=biteofme&label=bats&labelColor=%2347265b&countColor=%23d72ba6&style=flat">
 
 <p align="center">
-  <sub>$\color{#d72ba6}{laraㅤㅤmave}$</sub>
+  <sub>$\color{#501a71}{laraㅤ}$</sub>
 <p align="center">
-  <sub>$\color{#47265b}{ㅤthatㅤvampireㅤgloss ㅤgirlㅤ◡◡ .}$</sub>
+  <sub>$\color{#ff0093}{"ㅤIㅤwantㅤtoㅤsuckㅤyourㅤbloodㅤ"}$</sub>
 
   <p align="center">
-  <img width="300" height="300" src="https://imglink.cc/cdn/XjcMtPjBZ2.webp">
-</p>
+  <img width="300" height="300" src="https://imglink.cc/cdn/Ds8OH0rjm1.webp">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=501A71&width=435&lines=so+melodramatic+but+it+turns+me+on)](https://git.io/typing-svg)
+
+<p align="center">
+  <sub>$\color{#ff0093}{mostlyㅤofftabㅤ.ㅤw2iㅤ.ㅤaskㅤ2ㅤmootㅤ!ㅤ<3}$</sub>
+  <p align="center">
+  <sub>$\color{#501a71}{ }$</sub>
 
 <p align="center">
  <details>
-    <summary><sub><a </sub>${\textsf{\color{#47265b}information}}$ </summary>    
-    <p><sub><a </sub>${\textsf{\color{#d72ba6}I'm a minor. -13 dni, 19+ iwc}}$
-    <p><sub><a </sub>${\textsf{\color{#d72ba6}Vox and Verosika selfshipper}}$
-    <p><sub><a </sub>${\textsf{\color{#d72ba6}Bisexual and aroflux}}$
-    <p><sub><a </sub>${\textsf{\color{#d72ba6}please be patient with me}}$
-    </details>
-
-<p align="center">
- <details>
-    <summary><sub><a </sub>${\textsf{\color{#d72ba6}awards}}$ </summary>   
+    <summary><sub><a </sub>${\textsf{\color{#d72ba6}mi awards}}$ </summary>   
     <p><sub><a </p><a href="https://github.com/Ponytowns-rewards">@ponytowns-awards</a> <a </p><a href="https://github.com/music-town">@music-town</a> <a </p><a href="https://github.com/pt-heavyfictkin">@pt-heavyfictkin</a> <a </p><a href="https://github.com/pt-ship-nominations">@pt-ship-nominations</a> <a </p><a href="https://github.com/THE-TEMPIST">@THE-TEMPTIST</a> <a </p><a href="https://github.com/Knox-Event">@Knox-Event</a> <a </p><a href="https://github.com/piddlesjet">@piddlesjet</a>
     </details>
 
