@@ -17,8 +17,14 @@
 <p align="center">
   <sub>$\color{#ff32a7}{mostlyㅤofftabㅤ.ㅤw2iㅤ.ㅤaskㅤ2ㅤmootㅤ!ㅤ<3}$</sub>
 
- <p align="center">
-  <img width="150" height="150" src="https://imglink.cc/cdn/5jCynl1NYO.gif">
+  <p align="center">
+  <img width="150" height="20" src="https://imglink.cc/cdn/5jCynl1NYO.gif">
+   <p align="center">
+  <img width="150" height="20" src="https://imglink.cc/cdn/TknfPUSi7w.gif">
+   <p align="center">
+  <img width="150" height="20" src="https://imglink.cc/cdn/KR1u0G6p3O.gif">
+   <p align="center">
+  <img width="150" height="20" src="https://imglink.cc/cdn/6qL8C0BNhG.gif">
 
 <p align="center">
  <details>
